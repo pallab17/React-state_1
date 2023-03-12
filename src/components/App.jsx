@@ -24,3 +24,13 @@ function App() {
 }
 
 export default App;
+
+/* 
+ebar jodi ekhane amra dekhi 
+duto button baniyechi ebar duto button e duto alada fn diyechi jate 
+buy milk text ta strike off aar on hoye
+
+
+
+
+*/
