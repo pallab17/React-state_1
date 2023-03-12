@@ -89,3 +89,10 @@ but ei code ta kaj korbena as
     water will convert to ice
     and if temperature=>25
     ice will convert into water
+
+
+
+    toh ei example diye amra etai bujhlam je
+    temperature variable take amra state varaible hisabe use korchi i.e.
+    temperature variable r ghar e bonduk rekhe amra ui take change korchi
+    considering ui has 2 components i.e. ice aar water component
