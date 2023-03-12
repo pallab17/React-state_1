@@ -77,6 +77,15 @@ but ei code ta kaj korbena as
 
 
 
+    react State - eta hooche basically declarative programming jekhane amra
+    ekta varaible ke ekta state or situation hisabe treat kore ui ta change kori
+    ekhane variable take state  variable bola hoye
+    i.e. example ice aar water r
+    jodi ekta variable use kori ekhane
+    var Temperature = 5;
+    ebar temperature variable take use kore amra ui take change korbo
 
-
-*/
+    i.e. jodi temperature<=5 hoye
+    water will convert to ice
+    and if temperature=>25
+    ice will convert into water
