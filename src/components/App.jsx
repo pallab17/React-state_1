@@ -104,3 +104,15 @@ but ei code ta kaj korbena as
     import React ,{useState} from "react"; likhte pari ei line tar mane hooche amra useState r fn take import korchi from react or use korte cholechi react r sahajjo niye
     jate  react hooks = react.usestate() eitar jayega te amra
     react hooks = usestate() likhte pari
+    ekhane react.usestate() hocche ekta fn
+    but usestate() fn ta hooche ekta array jetar modhe 2 to element ache
+    first element == ekta varible === current state
+    second element ==ekta fn === jeta current state take change korche
+
+
+
+
+
+
+
+*/
