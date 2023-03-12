@@ -96,3 +96,11 @@ but ei code ta kaj korbena as
     temperature variable take amra state varaible hisabe use korchi i.e.
     temperature variable r ghar e bonduk rekhe amra ui take change korchi
     considering ui has 2 components i.e. ice aar water component
+     but to change the ui using react state we need react hooks.
+    react hooks = react.usestate()
+    import React from react; ei line e amra dekhte parchi react r sob benefits amra from react likhle use korte pari
+    thik serom bhabe usesState() fn ta from "react"; thekei asche 
+    tai amra directly 
+    import React ,{useState} from "react"; likhte pari ei line tar mane hooche amra useState r fn take import korchi from react or use korte cholechi react r sahajjo niye
+    jate  react hooks = react.usestate() eitar jayega te amra
+    react hooks = usestate() likhte pari
